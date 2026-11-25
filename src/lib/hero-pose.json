@@ -1,0 +1,21 @@
+{
+  "_comment": "Hero pose — local bone rotations in radians, Euler order ZYX. Shared by scripts/character/build-character.mjs and the hero scene.",
+  "Root": [0, -0.32, 0],
+  "Hips": [0, 0, 0.015],
+  "Spine": [0, 0.04, 0],
+  "Chest": [0.03, 0.06, -0.01],
+  "Neck": [0.02, 0.06, 0],
+  "Head": [0.04, 0.12, 0.03],
+  "UpperArm_L": [0, -0.18, -1.3],
+  "LowerArm_L": [0, -0.28, 0],
+  "Hand_L": [-0.2, 0, -0.1],
+  "UpperArm_R": [0, 0.5, 0.95],
+  "LowerArm_R": [0, 1.2, 0],
+  "Hand_R": [0, 0, 0],
+  "UpperLeg_L": [0, 0, 0.05],
+  "UpperLeg_R": [0, 0, -0.035],
+  "LowerLeg_L": [0, 0, -0.02],
+  "LowerLeg_R": [0, 0, 0.02],
+  "Foot_L": [0, -0.25, -0.03],
+  "Foot_R": [0, 0.15, 0.015]
+}
